@@ -1,6 +1,8 @@
 # Annoying Orange 만들기
 
 <a href=https://colab.research.google.com/github/JunaHwang/Annoying_Orange_mk/blob/main/Annoying_Orange_%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb>Colab 에서 만들기</a>
+<br>
+<a href=https://github.com/kairess/annoying-orange-face/blob/master/orange.jpg>오렌지 다운로드</a>
 
 
 안녕하세요.<br>
