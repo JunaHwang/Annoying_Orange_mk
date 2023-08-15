@@ -11,3 +11,6 @@ Annoying Orange 아시나요?!<br>
 <br>
 현재 이미지만 가능합니다!<br>
 추후에 영상 추가 예정입니다.<br>
+
+참고  https://velog.io/@juijeong8324/%EC%BA%90%EA%B8%80%EC%8A%A4%ED%84%B0%EB%94%94-myface-orange
+https://colab.research.google.com/github/nicolasmetallo/eameo-faceswap-generator/blob/master/face-swap-step-by-step.ipynb
